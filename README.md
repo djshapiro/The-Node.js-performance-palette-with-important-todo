@@ -37,6 +37,12 @@ Project | Grade | Extra
 [SocketCluster](https://github.com/SocketCluster/socketcluster) | :thumbsdown:
 [Primus](https://github.com/primus/primus) | :neutral_face:
 
+## File parsers
+Project | Grade | Extra
+--- | --- | ---
+[csv-parser](https://github.com/mafintosh/csv-parser) | :thumbsup:
+[node-csv](https://github.com/adaltas/node-csv) | :shit: | :octocat:
+
 ## Database connectors
 
 todo
