@@ -1,4 +1,5 @@
-# The Node.js performance palette
+<div align="center"><img src="palette.png" width="200" height="200" /></div>
+<h3 align="center">The Node.js performance palette</h3>
 Performance is far from everything in a business, but what exactly is productivity worth if what you produce is absolute garbage? There is a balance between performance and productivity and you can easily tip the scale either way if not being cautious. One of the biggest mistakes is *blindly following others* without any kind of scepticism, such as blindly using the project with the most GitHub stars.
 
 This list employs critical thinking by putting the most overhyped Node.js modules under the microscope.
