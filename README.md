@@ -36,3 +36,11 @@ Project | Grade | Extra
 [Feathers.js](https://github.com/feathersjs/feathers) | :shit:
 [SocketCluster](https://github.com/SocketCluster/socketcluster) | :thumbsdown:
 [Primus](https://github.com/primus/primus) | :neutral_face:
+
+## Database connectors
+
+todo
+
+* Mongoose?
+* MongoDB?
+* Redis?
