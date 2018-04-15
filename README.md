@@ -15,6 +15,7 @@ Very bad | :thumbsdown:
 Absolutely horrible | :shit:
 Most used | :octocat:
 Delusive | :trollface:
+Biased | :heavy_dollar_sign:
 
 ## HTTP routers and helpers
 
@@ -36,6 +37,15 @@ Project | Grade | Extra
 [Feathers.js](https://github.com/feathersjs/feathers) | :shit:
 [SocketCluster](https://github.com/SocketCluster/socketcluster) | :thumbsdown:
 [Primus](https://github.com/primus/primus) | :neutral_face:
+
+## WebSocket implementations
+Project | Grade | Extra
+--- | --- | ---
+[faye-websocket-node](https://github.com/faye/faye-websocket-node) | :thumbsdown:
+[websockets/ws](https://github.com/websockets/ws) | :neutral_face: | :octocat:
+[turbo-ws](https://github.com/hugmanrique/turbo-ws) | :shit: | :trollface:
+[websocket-node](https://github.com/theturtle32/WebSocket-Node) | :thumbsdown:
+[uws](https://github.com/uNetworking/uWebSockets-bindings) | :ok_hand: | :heavy_dollar_sign:
 
 ## File parsers
 Project | Grade | Extra
