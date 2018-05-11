@@ -47,11 +47,12 @@ Project | Grade | Extra
 [websocket-node](https://github.com/theturtle32/WebSocket-Node) | :thumbsdown:
 [uws](https://github.com/uNetworking/uWebSockets-bindings) | :ok_hand: | :heavy_dollar_sign:
 
-## File parsers
+## Parsers, validators & formatters
 Project | Grade | Extra
 --- | --- | ---
 [csv-parser](https://github.com/mafintosh/csv-parser) | :thumbsup:
 [node-csv](https://github.com/adaltas/node-csv) | :shit: | :octocat:
+[micnic/uv](https://github.com/micnic/uv) | :shit: | :trollface:
 
 ## Database connectors
 
