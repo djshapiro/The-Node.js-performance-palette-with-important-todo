@@ -2,7 +2,7 @@
 <h3 align="center">The Node.js performance palette</h3>
 <br />
 
-todo: Show benchmark data, otherwise people using this list are following as blindly as people who don't use this list
+<h2>todo: Show benchmark data, otherwise people using this list are following as blindly as people who don't use this list</h2>
 
 Performance is far from everything in a business, but what exactly is productivity worth if what you produce is absolute garbage? There is a balance between performance and productivity and you can easily tip the scale either way if not being cautious. One of the biggest mistakes is *blindly following others* without any kind of scepticism, such as blindly using the project with the most GitHub stars.
 
